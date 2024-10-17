@@ -10,3 +10,4 @@ VENV é o modulo que usaremos para criar ambientes virtuais.
 Os nomes mais utilizados pro AV são:
 venv, env, .venv, .env
 '''
+
